@@ -1,3 +1,9 @@
+---
+title: Homepage
+template: home.html
+---
+
+
 [![Melbourne Bioinformatics Logo](img/melbioinf-logo.png)](https://www.melbournebioinformatics.org.au/)
 
 # Welcome to MBITE!
